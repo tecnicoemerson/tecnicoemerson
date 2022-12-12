@@ -8,3 +8,5 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=tecnicoemerson&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tecnicoemerson&theme=tokyonight)
+
