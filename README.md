@@ -10,3 +10,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tecnicoemerson&theme=tokyonight)
 
+![](https://komarev.com/ghpvc/?username=tecnicoemerson-github-username)
+
