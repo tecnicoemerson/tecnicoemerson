@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="700" src="https://media.tenor.com/ex3kjWMZ4ScAAAAC/sky-kimionawa.gif">
+<img align="right" alt="Coding" width="700" src="https://media.tenor.com/ex3kjWMZ4ScAAAAC/sky-kimionawa.gif">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnicoemerson&show_icons=true&theme=tokyonight)
 
