@@ -7,5 +7,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnicoemerson&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnicoemerson&layout=&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tecnicoemerson&theme=tokyonight)
-
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tecnicoemerson&theme=tokyonight"/></a>
+</p>
