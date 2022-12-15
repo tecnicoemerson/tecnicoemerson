@@ -10,3 +10,8 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tecnicoemerson&theme=tokyonight"/></a>
 </p>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tecnicoemerson}/count.svg" /></p> 
+<br></div>
