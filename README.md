@@ -7,7 +7,6 @@
  <img align="center" alt="Coding" width="100%" height="500" src="https://media.tenor.com/ex3kjWMZ4ScAAAAC/sky-kimionawa.gif">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnicoemerson&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Emerson%20Rodrigues&theme=tokyonight&hide_border=verdadeiro&mode=weekly&type=png)](https://git.io/streak-stats)
 ![center Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnicoemerson&hide_progress=true=&theme=tokyonight)
 
 <div align="center">
