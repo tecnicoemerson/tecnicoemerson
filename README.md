@@ -11,7 +11,7 @@
 </p>
 
 <a> <img align='right' src="https://miro.medium.com/v2/resize:fit:1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" width="450" /></a>
-<h2 align="center">curious, and<img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+<h2 align="center">curious, and passionate about coding!</h2>
 
 * 🌳 I'm currently learning Java <br><br><br>
 
