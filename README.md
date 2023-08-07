@@ -3,7 +3,7 @@
 <p align="center">  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5190F7&center=verdadeiro&vCenter=falso&width=435&lines=Hi%2C+I%C2%B4m+Emerson;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </p>
- 
+
  <img alt="Coding" width="800" align="center" src="https://media.tenor.com/ex3kjWMZ4ScAAAAC/sky-kimionawa.gif">
 
 <p align="center"><br>
