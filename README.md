@@ -17,7 +17,7 @@
 
 * 🌊 Goals for 2023: take several courses in the back end area <br><br><br>
 
-* ☕ Interest: studying, gaming, coffee and coding. <br><br><br>
+* ☕ Interest: studying, animes, coffee and coding. <br><br><br>
 
 <h2></h2><br>
 
@@ -32,7 +32,7 @@
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=tecnicoemerson&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
-   <img src=https://streak-stats.demolab.com?user=tecnicoemerson&theme=transparent&hide_border=verdadeiro&type=json/>
+
 
 <p align="center"><br>
   <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
