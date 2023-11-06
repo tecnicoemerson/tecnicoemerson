@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5190F7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e8d3a9&height=120&section=header"/>
 
 <p align="center">  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5190F7&center=verdadeiro&vCenter=falso&width=435&lines=Hi%2C+I%C2%B4m+Emerson;Welcome+to+my+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=e8d3a9&center=verdadeiro&vCenter=falso&width=435&lines=Hi%2C+I%C2%B4m+Emerson;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </p>
 
  <img align="center" src="https://theouterhaven.b-cdn.net/wp-content/uploads/2020/08/original.gif">
@@ -30,7 +30,7 @@
   
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=tecnicoemerson&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=tecnicoemerson&theme=algolia&no-frame=true&no-bg=true&color=e8d3a9&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
 
 <p align="center"><br>
@@ -42,4 +42,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tecnicoemerson}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5190F7&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e8d3a9&height=120&section=footer"/>
