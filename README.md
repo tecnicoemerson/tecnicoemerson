@@ -10,7 +10,7 @@
   <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
 </p>
 
-<h2 align="center" color=e8d3a9>curious, and passionate about coding!</h2> <img align='right' src="https://miro.medium.com/v2/resize:fit:1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" width="450" />
+<h2 align="center" color="white">curious, and passionate about coding!</h2> <img align='right' src="https://miro.medium.com/v2/resize:fit:1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" width="450" />
 
 * 🌳 I'm currently learning Java <br><br><br>
 
