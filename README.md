@@ -30,7 +30,7 @@
   
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=tecnicoemerson&theme=algolia&no-frame=true&no-bg=true&color=e8d3a9&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=tecnicoemerson&theme=gruvbox&no-frame=true&no-bg=true&color=e8d3a9&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
 
 <p align="center"><br>
