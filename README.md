@@ -16,7 +16,7 @@
 
 * 🌊 Goals for 2023: take several courses in the back end area <br><br><br> 
 
-* ☕ Interest: studying, animes, coffee and coding. <br><br><br>
+* ☕ Interest: study, anime, games, coffee and programming. <br><br><br>
 
 <h2></h2><br>
 
