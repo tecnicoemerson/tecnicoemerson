@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e8d3a9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e4a&height=120&section=header"/>
 
 <p align="center">  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=e8d3a9&center=verdadeiro&vCenter=falso&width=435&lines=Hi%2C+I%C2%B4m+Emerson;Welcome+to+my+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=ff6e4a&center=verdadeiro&vCenter=falso&width=435&lines=Hi%2C+I%C2%B4m+Emerson;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </p>
 
  <img align="center" src="https://www.gifcen.com/wp-content/uploads/2021/06/violet-evergarden-gif-13.gif" width="100%">
@@ -42,4 +42,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tecnicoemerson}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e8d3a9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e4a&height=120&section=footer"/>
