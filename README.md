@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e4a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2fb8ac&height=120&section=header"/>
 
 <p align="center">  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=ff6e4a&center=verdadeiro&vCenter=falso&width=435&lines=Hi%2C+I%C2%B4m+Emerson;Welcome+to+my+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2fb8ac&center=verdadeiro&vCenter=falso&width=435&lines=Hi%2C+I%C2%B4m+Emerson;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </p>
 
  <img align="center" src="https://www.gifcen.com/wp-content/uploads/2021/06/violet-evergarden-gif-13.gif" width="100%">
@@ -10,7 +10,7 @@
   <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
 </p>
 
-<h2 align="center" color="white">curious, and passionate about coding!</h2> <img align='right' src="https://miro.medium.com/v2/resize:fit:1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" width="450" />
+<h2 align="center" color="#2fb8ac">curious, and passionate about coding!</h2> <img align='right' src="https://miro.medium.com/v2/resize:fit:1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" width="450" />
 
 * 🌳 I'm currently learning Java <br><br><br>
 
@@ -42,4 +42,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tecnicoemerson}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e4a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2fb8ac&height=120&section=footer"/>
