@@ -14,7 +14,7 @@
 
 * 🌳 I'm currently learning Java <br><br><br>
 
-* 🌊 Goals for 2023: take several courses in the back end area <br><br><br> 
+* 🌊 Goals for 2024: take several courses to become a full stack <br><br><br> 
 
 * ☕ Interest: study, anime, games, coffee and programming. <br><br><br>
 
