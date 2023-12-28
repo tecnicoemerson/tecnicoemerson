@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2fb8ac&center=verdadeiro&vCenter=falso&width=435&lines=Hi%2C+I%C2%B4m+Emerson;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </p>
 
- <img align="center" src="https://www.gifcen.com/wp-content/uploads/2021/06/violet-evergarden-gif-13.gif" width="100%">
+ <img align="center" src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif" width="100%">
 
 <p align="center"><br>
   <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
