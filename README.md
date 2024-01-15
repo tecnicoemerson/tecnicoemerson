@@ -12,7 +12,7 @@
 
 <h2 align="center" color="#2fb8ac">curious, and passionate about coding!</h2> <img align='right' src="https://miro.medium.com/v2/resize:fit:1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" width="450" />
 
-* 🌳 I'm currently learning Full Stack Javascript <br><br><br>
+* 🌳 I'm currently learning Spring Boot Java <br><br><br>
 
 * 🌊 Goals for 2024: take several courses to become a full stack <br><br><br> 
 
