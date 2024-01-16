@@ -14,7 +14,7 @@
 
 * 🌳 I'm currently learning Spring Boot Java <br><br><br>
 
-* 🌊 Goals for 2024: take several courses to become a Back end <br><br><br> 
+* 🌊 Goals for 2024: take multiple courses to become a back-end developer <br><br><br> 
 
 * ☕ Interest: study, anime, games, coffee and programming. <br><br><br>
 
