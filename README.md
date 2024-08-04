@@ -20,7 +20,7 @@
 
 <br><br>
 <div align="center">
-  <h2>Habilidades</h2><br>
+  <h2>Skills</h2><br>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
@@ -39,7 +39,7 @@
 </p>
 
 <div align="center">
-  <h2>Conecte-se comigo</h2>
+  <h2>Connect with me</h2>
   <a href="https://www.linkedin.com/in/emerson-rodrigues-27547025a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
