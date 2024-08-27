@@ -16,7 +16,7 @@
 
 * 🌊 Goals for 2024: take multiple courses to become a back-end developer <br><br>
 
-* ☕ Interests: study, anime, games, coffee, and programming <br><br>
+* ☕ Interests: study, reading, anime, games, coffee and programming<br><br>
 
 <br><br>
 <div align="center">
