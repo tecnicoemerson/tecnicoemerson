@@ -48,15 +48,4 @@
 </a>
 </div>
 
-<br>
-<div align="center">
-  <h2><strong>My Github Stats</strong> <img src="assets/borderseperator.gif"></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=tecnicoemerson&theme=gruvbox&no-frame=true&no-bg=true&color=e8d3a9&row=1&column=7" width="100%" alt="Trophy" align="middle" /></div> <br><br>
-
-<div align="center">
-  <br><p align="center"><b>Visitors Count</b></p>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{tecnicoemerson}/count.svg" /></p>
-  <br>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2fb8ac&height=120&section=footer"/>
